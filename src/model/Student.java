@@ -7,6 +7,7 @@ public class Student {
     private String studentID; // 成员变量
 
     public Student() {
+
     }
 
     // 构造方法
